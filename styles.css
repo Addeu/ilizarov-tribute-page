@@ -15,6 +15,10 @@
     margin: 0;
     font-size: 1.3rem;
   }
+
+  hr, figcaption, ul, #heritage {
+    max-width: 95%;
+  }
 }
 
 html {
